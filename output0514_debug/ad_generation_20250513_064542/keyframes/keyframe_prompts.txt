@@ -1,0 +1,15 @@
+KEYFRAME 1:
+"This item rests on a picnic blanket under a canopy of blooming cherry blossoms."
+
+KEYFRAME 2:
+"This item floats in a glass of sparkling water, surrounded by ice cubes."
+
+KEYFRAME 3:
+"This item hangs from a tree branch, swaying gently in a light breeze."
+
+KEYFRAME 4:
+"This item sits atop a stack of vintage books, dusted with soft, warm sunlight."
+
+KEYFRAME 5:
+"This item is held by a child's hand, gazing up at a clear blue sky."
+

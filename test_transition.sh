@@ -1,0 +1,1 @@
+python main.py transition --source_image /path/to/keyframe1.jpg --target_image /path/to/keyframe2.jpg

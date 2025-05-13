@@ -1,0 +1,1 @@
+python main.py qwen --image_path /path/to/image.jpg --prompt "What do you see in this image? Describe it in detail."

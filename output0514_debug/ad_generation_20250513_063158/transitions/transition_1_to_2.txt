@@ -1,0 +1,25 @@
+**Transition Description:**
+
+---
+
+### **Scene Change: Workplace to Studio**
+**Duration:** 3 seconds
+
+#### **Camera Movement:**
+- **Dolly In:** Begin with a **dolly-in** shot from the first keyframe. Start at a wide shot capturing the entire workspace, including the cup resting on the desk, the laptop, and the natural light coming through the window. As the camera moves closer, the focus narrows down to the cup, emphasizing its importance.
+- **Pan Right:** Once the camera is close enough, smoothly pan right to follow the cup as it's picked up by hands. The pan should be slow and deliberate, maintaining a steady pace to keep the viewer engaged without feeling rushed.
+
+#### **Visual Effects:**
+- **Dissolve Transition:** As the camera pans, gradually introduce a **dissolve effect**. Start with the workplace scene fully visible, then slowly blend into the next scene. The dissolve should be smooth and seamless, ensuring no abrupt cuts.
+- **Color Grading Shift:** Apply a subtle **color grading shift** to transition from the cool tones of the workplace to the warmer hues of the studio. This can be achieved by adjusting the saturation and temperature of the colors in the dissolve phase.
+
+#### **Element Interaction:**
+- **Focus on the Cup:** Throughout the transition, ensure the cup remains the focal point. As the camera moves, the background will naturally blur due to the shallow depth of field, drawing attention to the cup. The cup should remain sharp and clear while the rest of the environment softens.
+- **Hand Interaction:** As the cup is lifted, the hands holding it should appear in the frame. The transition should make it look like the cup is being passed from one person to another, adding a sense of continuity and flow.
+
+#### **Timing and Pacing:**
+- **Acceleration/Deceleration:** The initial dolly-in should start slowly, building anticipation. As the camera approaches the cup, accelerate slightly to create a sense of urgency and excitement. The pan should be smooth and decelerate as it reaches the final position, ensuring a polished finish.
+- **Duration:** The total duration of the transition should be approximately 3 seconds, allowing ample time for the viewer to absorb the change in setting and atmosphere.
+
+#### **Lighting Changes:**
+- **Natural to Artificial Lighting:** The transition should reflect a shift from natural sunlight to artificial studio lighting. The natural light in the workplace scene should gradually fade out, replaced by the warm, ambient lighting of

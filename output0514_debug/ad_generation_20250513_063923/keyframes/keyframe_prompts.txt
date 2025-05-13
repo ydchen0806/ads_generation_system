@@ -1,0 +1,15 @@
+KEYFRAME 1:
+"This item rests on a sleek desk, glowing softly under ambient office light."
+
+KEYFRAME 2:
+"A gamer grips this item, illuminated by the glow of a computer screen."
+
+KEYFRAME 3:
+"This item floats above a vibrant, colorful digital landscape."
+
+KEYFRAME 4:
+"In a dimly lit room, this item sits atop a stack of gaming magazines."
+
+KEYFRAME 5:
+"This item is held aloft by a hand, casting a shadow over a chessboard."
+

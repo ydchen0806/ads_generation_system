@@ -1,0 +1,1 @@
+python main.py image --image_path /path/to/product.jpg --prompt "A sleek product shot on a minimalist background with dramatic lighting" --seed 123

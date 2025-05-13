@@ -1,0 +1,15 @@
+KEYFRAME 1:
+"This item rests on a wooden desk, bathed in soft sunlight streaming through a nearby window."
+
+KEYFRAME 2:
+"A hand gently cradles this item, set against a backdrop of a cozy café with warm, ambient lighting."
+
+KEYFRAME 3:
+"This item floats above a bustling city street, with the sun casting dynamic shadows below."
+
+KEYFRAME 4:
+"In a WeWork office, this item sits on a table surrounded by colleagues engaged in discussion."
+
+KEYFRAME 5:
+"This item is held high, silhouetted against a vibrant sunset, symbolizing freedom and inspiration."
+

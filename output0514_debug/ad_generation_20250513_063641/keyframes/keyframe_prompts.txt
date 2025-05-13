@@ -1,0 +1,15 @@
+KEYFRAME 1:
+"This item anchors a cozy reading nook, bathed in soft, natural light filtering through sheer curtains."
+
+KEYFRAME 2:
+"A family gathers around this item, sharing laughter and stories under a warm, ambient lamp."
+
+KEYFRAME 3:
+"This item stands proudly in a minimalist gallery, surrounded by abstract art and modern decor."
+
+KEYFRAME 4:
+"In a serene garden, this item invites relaxation, nestled among blooming flowers and greenery."
+
+KEYFRAME 5:
+"This item is the centerpiece of a chic loft, illuminated by sleek, contemporary lighting fixtures."
+

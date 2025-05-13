@@ -1,0 +1,1 @@
+python main.py video --keyframes_dir ./output/keyframes --transitions_dir ./output/transitions --output_path ./output/final_video.mp4

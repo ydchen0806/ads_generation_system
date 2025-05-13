@@ -1,0 +1,33 @@
+**Transition Description:**
+
+---
+
+### **Scene Change: From Glass of Sparkling Water to Tree Branch**
+
+#### **Keyframe 1:**
+- **Camera Position:** Fixed, centered on the Lay's Classic chip bag floating in a glass of sparkling water, surrounded by ice cubes.
+- **Lighting:** Bright, crisp, and focused on the product, with a shallow depth of field blurring the background slightly.
+- **Atmosphere:** Refreshing and cool, emphasizing the crispness of the product.
+
+#### **Keyframe 2:**
+- **Camera Position:** Fixed, centered on the Lay's Classic chip bag hanging from a tree branch, swaying gently in a light breeze.
+- **Lighting:** Soft, natural, and diffused, with a warm tone that contrasts with the previous scene.
+- **Atmosphere:** Calm and inviting, suggesting a more relaxed and enjoyable experience.
+
+---
+
+### **Transition:**
+
+1. **Camera Movement:**
+   - **Dolly Out:** Begin with a slow, smooth dolly out from Keyframe 1, moving away from the glass of water and the ice cubes. The camera should move horizontally, maintaining the product in the center of the frame.
+   - **Pan Left:** As the dolly continues, smoothly pan left to reveal the background, transitioning into the outdoor setting.
+   - **Zoom In:** Once the camera has panned sufficiently to show the tree branch, initiate a gentle zoom-in towards the Lay's Classic chip bag, bringing it back into focus while the background remains blurred.
+
+2. **Visual Effects:**
+   - **Dissolve Transition:** Use a soft dissolve effect to transition between the two scenes. Start with a slight blur over the glass of water, gradually fading out the image of the ice cubes and the sparkling water.
+   - **Morph Effect:** As the dissolve progresses, morph the background from the dark, cool tones of the studio to the warm, natural hues of the outdoor setting. The Lay's Classic chip bag will remain sharp and clear throughout this transition.
+   - **Parallax Effect:** Introduce a subtle parallax effect where the background appears to move slightly faster than the foreground, enhancing the sense of depth and immersion.
+
+3. **Interaction Between Elements:**
+   - **Product Focus:** Ensure the Lay's Classic chip bag remains the focal point throughout the transition. It should be clearly visible and well-lit in both scenes.
+   - **Background Integration:** The background of the first scene (ice cubes and sparkling water)

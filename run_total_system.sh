@@ -1,0 +1,1 @@
+python main.py pipeline --image_path /h3cstore_ns/ydchen/code/wan_2_1/ads_generation_system/test_objects0507/cup1.jpg --keyframes 5 --output_dir ./output0513 --seed 42

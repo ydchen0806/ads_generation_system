@@ -1,0 +1,39 @@
+**Transition Description:**
+
+---
+
+### **Scene Change: From Studio to Outdoor Digital Landscape**
+
+#### **Keyframe 1:**
+- **Camera Position:** Fixed, centered on the hand holding the mouse, with the monitor in the background.
+- **Lighting:** Soft, ambient studio lighting with a blue tint from the monitor's glow.
+- **Focus:** Sharp on the mouse and hand, slightly blurred monitor background.
+- **Atmosphere:** Professional and focused, emphasizing the product's use in a serious gaming environment.
+
+#### **Keyframe 2:**
+- **Camera Position:** The mouse is now floating above a vibrant, colorful digital landscape.
+- **Lighting:** Bright, vivid colors with a warm, almost surreal glow.
+- **Focus:** The mouse remains sharp, while the background is intentionally blurred to emphasize the product.
+- **Atmosphere:** Dynamic and energetic, highlighting the product's capabilities in a fantastical setting.
+
+---
+
+### **Transition Details:**
+
+1. **Camera Movement:**
+   - **Dolly Out:** Begin with a slow, deliberate dolly out from Keyframe 1, moving away from the hand and mouse. This will gradually reveal more of the monitor's surroundings.
+   - **Pan Up:** As you dolly out, pan up slightly to include the top edge of the monitor, giving context to the environment.
+   - **Zoom In:** Once the monitor is fully visible, perform a subtle zoom-in towards the mouse, bringing it back into focus while the background blurs further.
+
+2. **Visual Effects:**
+   - **Fade Out/In:** Apply a soft fade-out from Keyframe 1, transitioning smoothly into the new scene.
+   - **Morph Effect:** Use a morph effect where the mouse smoothly transforms into its floating state, maintaining its shape and details.
+   - **Parallax Blur:** Apply a gentle parallax blur to the monitor and background, creating depth and making the transition feel more dynamic.
+
+3. **Element Interaction:**
+   - **Mouse Transition:** The mouse should appear to float upwards and outwards, as if being lifted by a force field or magical energy.
+   - **Color Shift:** The mouse retains its original color scheme but becomes more vibrant and saturated as it enters the new scene.
+   - **Lighting Change:** The blue glow from the monitor transitions into a warmer, more inviting light as the mouse is lifted.
+
+4. **Timing and Pacing:**
+   - **Duration:** The entire transition should last approximately 3-4 seconds.

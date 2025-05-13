@@ -1,0 +1,38 @@
+**Transition Description:**
+
+---
+
+### **Scene Change: From Cozy Café to Bustling City Street**
+
+#### **Keyframe 1:**
+- **Camera Position:** Fixed, centered on the cup held by hands.
+- **Lighting:** Warm, ambient light from ceiling lamps.
+- **Focus:** Sharp on the cup, slightly blurred background.
+- **Atmosphere:** Calm, inviting, intimate.
+
+#### **Keyframe 2:**
+- **Camera Position:** Fixed, centered on the cup floating above the city street.
+- **Lighting:** Dynamic sunlight casting sharp shadows.
+- **Focus:** Sharp on the cup, slightly blurred background.
+- **Atmosphere:** Energetic, vibrant, urban.
+
+---
+
+### **Transition Details:**
+
+1. **Camera Movement:**
+   - **Dolly Out:** Begin with a slow, smooth dolly out from Keyframe 1, moving away from the hands holding the cup. The camera should move horizontally, maintaining the cup in the center of the frame.
+   - **Zoom Out:** As the dolly continues, gradually zoom out to reveal more of the café's interior, eventually transitioning into the blurred background.
+   - **Pan Up:** Once the café is out of view, pan up smoothly to transition into the next scene, keeping the cup in the frame.
+
+2. **Visual Effects:**
+   - **Dissolve Transition:** Use a soft dissolve effect to transition from Keyframe 1 to Keyframe 2. The dissolve should be subtle, blending the warm café lighting with the bright, dynamic city street lighting.
+   - **Morph Effect:** Apply a morph effect where the cup subtly transforms from being held in hands to floating above the city street. This can be achieved by slightly distorting the cup’s shape and position to create a seamless transition.
+
+3. **Element Interaction:**
+   - **Cup Continuity:** Ensure the cup remains the focal point throughout the transition. It should appear to seamlessly move from being held in hands to floating above the city street.
+   - **Background Blurring:** The background blurs should be gradual and consistent, ensuring a smooth transition from the warm, cozy café to the bustling city street.
+
+4. **Timing and Pacing:**
+   - **Duration:** The entire transition should last approximately 3-4 seconds.
+   - **Acceleration/Deceleration:** Start with a slower pace as the camera moves out and zooms out, then gradually increase speed as the pan up begins. The morph effect should be

@@ -1,0 +1,23 @@
+**Transition Description:**
+
+**Scene Change: From Workplace to Studio**
+
+**Camera Movement:**
+- **Dolly In:** Begin with a slow, steady dolly-in towards the Logitech mouse in the first frame. The camera should move smoothly from a wide shot of the entire desk setup to a close-up of the mouse itself. This movement will draw the viewer's attention directly to the product.
+- **Pan Right:** As the dolly reaches its closest point, gently pan right to follow the mouse as it moves off the desk and into the hand of the gamer in the second frame. This motion should be fluid and continuous, maintaining the focus on the mouse while subtly shifting the viewer’s perspective.
+
+**Visual Effects:**
+- **Dissolve Transition:** At the moment the mouse leaves the desk, execute a dissolve transition. This will seamlessly blend the two scenes together without any abrupt cuts. The dissolve should start with the mouse on the desk and gradually fade out, transitioning into the hand holding the mouse against the backdrop of the computer screen.
+- **Color Grading Adjustment:** During the dissolve, adjust the color grading slightly to match the lighting conditions of the new scene. The workplace lighting should gradually shift to the warmer, more vibrant tones of the studio lighting to enhance the transition.
+
+**Interaction of Elements:**
+- **Mouse Focus:** Throughout the transition, ensure the mouse remains the focal point. The dolly and pan movements should be carefully timed so that the mouse is always in clear view, even as the background changes.
+- **Lighting Interaction:** The ambient office light in the first frame should gradually transition to the brighter, more focused lighting of the computer screen in the second frame. This change in lighting should be smooth and natural, emphasizing the product's adaptability across different environments.
+
+**Timing and Pacing:**
+- **Duration:** The total duration of the transition should be approximately 3 seconds.
+- **Acceleration/Deceleration:** Start with a slower pace as the camera moves closer to the mouse, then gradually increase speed as the pan follows the mouse into the hand. The dissolve should be executed at a moderate pace to allow viewers ample time to absorb the change.
+
+**Lighting Changes, Color Shifts, Atmosphere Transitions:**
+- **Lighting:** The transition should begin with soft, diffused lighting typical of an office environment and smoothly transition to the sharp, focused light of a computer screen. This shift should be gradual and subtle, ensuring a seamless change in atmosphere.
+- **Color Shifts:** The color palette

@@ -1,0 +1,1 @@
+python main.py director --image_path /h3cstore_ns/ydchen/code/wan_2_1/ads_generation_system/test_objects0507/cup1.jpg --keyframes 4

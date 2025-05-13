@@ -1,0 +1,28 @@
+**Transition Description:**
+
+---
+
+### **Scene Change: From a Vibrant Digital Landscape to a Dimly Lit Studio**
+
+#### **Keyframe 1:**
+- **Description:** The mouse floats above a vibrant, colorful digital landscape. The background is a dynamic, abstract environment with shifting hues and patterns, creating a sense of energy and excitement.
+- **Camera Position:** The camera is positioned slightly below the mouse, looking up at it, emphasizing its sleek design and floating motion.
+- **Lighting:** Bright, diffused lighting illuminates the mouse and the colorful background, enhancing the vibrancy and energy of the scene.
+
+#### **Keyframe 2:**
+- **Description:** The mouse is now sitting atop a stack of gaming magazines in a dimly lit room. The background includes a speaker, a monitor, and ambient lighting, creating a cozy, focused gaming environment.
+- **Camera Position:** The camera is positioned directly above the mouse, providing a clear view of its placement on the magazines.
+- **Lighting:** Soft, warm, and focused lighting highlights the mouse while the rest of the room remains dimly lit, drawing attention to the product.
+
+---
+
+### **Transition Details:**
+
+1. **Camera Movement:**
+   - **Dolly In/Out:** Start with a slow dolly-in towards the mouse in Keyframe 1, bringing the viewer closer to the product. As you reach Keyframe 1, the dolly should decelerate smoothly.
+   - **Pan Down:** Transition into a pan down, moving the camera from the vibrant digital landscape to the dimly lit room. This movement should be fluid and continuous, maintaining the mouse as the focal point.
+   - **Dolly Out/In:** As the camera reaches the dimly lit room in Keyframe 2, initiate a slow dolly-out, pulling back slightly to establish the new setting. Then, perform a dolly-in to bring the camera closer to the mouse, ensuring it remains the central focus.
+
+2. **Visual Effects:**
+   - **Dissolve:** Use a soft dissolve effect to transition from the bright, colorful background in Keyframe 1 to the dimly lit room in Keyframe 2. The dissolve should be gradual, allowing the colors to blend smoothly without abrupt changes.
+   - **Color Shift:** Apply a subtle color shift during the dissolve, where the vibrant colors of the digital landscape gradually fade into the warmer tones of the dimly lit room. This shift will help maintain the viewer's focus on the mouse while

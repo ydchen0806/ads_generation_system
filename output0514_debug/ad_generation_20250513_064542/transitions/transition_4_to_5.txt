@@ -1,0 +1,22 @@
+### Transition Description: From Keyframe 1 to Keyframe 2
+
+#### Camera Movement:
+- **Dolly Out**: Begin with a **dolly out** from the initial close-up shot of the Lay's chip bag on the stack of books. The camera will smoothly move backward, gradually revealing more of the surrounding environment while maintaining focus on the product.
+- **Pan Up**: As the camera moves back, it will **pan up** slightly to include the window and the plant in the background, establishing the cozy, indoor setting.
+- **Zoom In**: Once the camera has moved sufficiently away from the initial close-up, initiate a **zoom-in** on the Lay's chip bag. This will bring the product back into sharp focus, emphasizing its importance and drawing attention to it.
+
+#### Visual Effects:
+- **Dissolve Transition**: Use a **soft dissolve** effect to transition between the two scenes. Start with a gradual fade-out of the initial scene, where the Lay's bag is surrounded by books and warm sunlight. Simultaneously, the new scene begins to fade in, showing the hand holding the Lay's bag against the clear blue sky.
+- **Color Grading**: Apply a subtle **color grading** shift to match the lighting and atmosphere of each scene. For the first scene, use a warm, golden tone to complement the sunlight and the vintage books. For the second scene, maintain a bright, natural blue tone to reflect the clear sky.
+
+#### Interaction Between Elements:
+- **Product Focus**: Throughout the transition, ensure the Lay's bag remains the focal point. The camera movement and visual effects should be designed to draw the viewer’s eye back to the product seamlessly.
+- **Atmosphere Continuity**: The transition should maintain a sense of continuity in the product's context. The warm, inviting atmosphere of the first scene should smoothly transition into the fresh, open feeling of the second scene.
+
+#### Timing and Pacing:
+- **Duration**: The entire transition should last approximately **3-4 seconds**.
+- **Acceleration/Deceleration**: Start with a slower pace as the camera moves back, then gradually increase the speed as the zoom-in on the Lay's bag becomes more pronounced. This will create a dynamic yet smooth transition.
+
+#### Lighting and Atmosphere:
+- **Lighting Changes**: The lighting should transition from the warm, diffused light of the indoor setting to the bright, direct sunlight of the outdoor setting. Ensure there is a smooth gradient in the lighting to avoid harsh contrasts.
+- **Color Shifts**:
